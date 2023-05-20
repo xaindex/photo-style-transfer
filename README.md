@@ -193,17 +193,6 @@ Here are some results from our algorithm (from left to right are input, style an
 </p>
 
 
-## Citation
-If you find this work useful for your research, please cite:
-```
-@article{luan2017deep,
-  title={Deep Photo Style Transfer},
-  author={Luan, Fujun and Paris, Sylvain and Shechtman, Eli and Bala, Kavita},
-  journal={arXiv preprint arXiv:1703.07511},
-  year={2017}
-}
-```
-
 ## Contact
 Feel free to contact us if there is any question (tech@xaindex.ai).
 
